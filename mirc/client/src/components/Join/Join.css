@@ -1,0 +1,18 @@
+.joinOuterContainer, .heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.joinInput {
+    width: 300px !important;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
+
+.btn {
+    width: 300px;
+}
